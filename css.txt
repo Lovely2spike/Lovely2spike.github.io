@@ -1,0 +1,53 @@
+@import
+	"https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css";
+
+li.menu-item {
+	text-transform:uppercase;
+}
+.nav-horizontal li a{
+	color:#fff;
+}
+.header-site nav.nav-horizontal .menu li a:hover{
+	color:#DEAE83;
+}
+.section-title .heading {
+	color:#fff;
+	text-transform:uppercase;
+}
+
+.section-title .button{
+	background:#734C3D;
+	border-radius:3px;
+}
+.button{
+	width:150px;
+	height:40px;
+	padding-top:10px;
+	
+}
+.button:hover{
+	background:#DEAE83;
+	color:#464547;
+}
+#layers-widget-column-9{
+ border-bottom: 1px #d2d2d2 dashed ;
+	border-top: 1px #d2d2d2 dashed ;
+}
+.footer-site{
+ text-align:center;
+	
+}
+.menu-bottom-menu-container li{
+	display:inline-block;
+}
+.menu-bottom-menu-container li  a {
+	display:block;
+	width:35px;
+	height:35px;
+	border:1px #fff solid;
+	padding-top:5px;
+}
+.menu-bottom-menu-container li  a:hover{
+	background:white;
+	color:#2B2B2B;
+}
